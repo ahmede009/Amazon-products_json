@@ -998,7 +998,7 @@
 
   {
   "id": "d4d42c3d-56c1-4b59-93b5-b1a8c3d82c7d",
-  "image": "images/products/countertop-blender-64oz.jpg",
+  "image": "images/products/countertop-blender-64-oz.jpg",
   "name": "Countertop Blender - 64oz, 1400 Watts",
   "rating": { "stars": 3, "count": 140 },
   "priceCents": 10747,
@@ -1006,7 +1006,7 @@
 },
 {
   "id": "d9f6f3a4-34a9-44ab-80f4-9d64c3b9b0e7",
-  "image": "images/products/mixing-bowl-set-floral.jpg",
+  "image": "images/products/floral-mixing-bowl-set.jpg",
   "name": "10-Piece Mixing Bowl Set with Lids - Floral",
   "rating": { "stars": 4.5, "count": 679 },
   "priceCents": 3899,
@@ -1014,7 +1014,7 @@
 },
 {
   "id": "b8c1f5d7-2e3d-48e7-9d1a-19f8d6c3f7a0",
-  "image": "images/products/kitchen-paper-towels-30pack.jpg",
+  "image": "images/products/kitchen-paper-towels-30-pack.jpg",
   "name": "2-Ply Kitchen Paper Towels - 30 Pack",
   "rating": { "stars": 5, "count": 1045 },
   "priceCents": 5799,
@@ -1022,7 +1022,7 @@
 },
 {
   "id": "f3d8e1c9-1f5c-4c3b-9d2b-0e2a6b7d9c12",
-  "image": "images/products/hooded-fleece-sweatshirt.jpg",
+  "image": "images/products/men-cozy-fleece-zip-up-hoodie-red.jpg",
   "name": "Men's Full-Zip Hooded Fleece Sweatshirt",
   "rating": { "stars": 4.5, "count": 3157 },
   "priceCents": 2400,
