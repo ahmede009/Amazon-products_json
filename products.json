@@ -994,4 +994,84 @@
       "lightweight",
       "exercise"
     ]
-  }]
+  }, {
+  "id": "4bc0d8c0-600e-4d32-8f75-20bcae5c7a80",
+  "image": "images/products/black-leather-belt.jpg",
+  "name": "Black Genuine Leather Belt",
+  "rating": { "stars": 4.5, "count": 215 },
+  "priceCents": 2599,
+  "keywords": ["belt", "leather", "accessories", "mens", "waist", "clothing", "fashion", "casual", "formal", "adjustable"]
+},
+{
+  "id": "c10e42c4-294d-4f11-8c7e-823c3ac2d8a3",
+  "image": "images/products/stainless-steel-water-bottle.jpg",
+  "name": "Insulated Stainless Steel Water Bottle - 1 Liter",
+  "rating": { "stars": 5, "count": 482 },
+  "priceCents": 1999,
+  "keywords": ["bottle", "water", "stainless steel", "hydration", "sports", "travel", "outdoors", "gym", "camping", "reusable"]
+},
+{
+  "id": "c8e5f8d9-28a4-47e2-8d9e-28e1b0f4b2a1",
+  "image": "images/products/wireless-bluetooth-earbuds.jpg",
+  "name": "Wireless Bluetooth Earbuds with Charging Case",
+  "rating": { "stars": 4, "count": 672 },
+  "priceCents": 4599,
+  "keywords": ["earbuds", "wireless", "bluetooth", "headphones", "music", "audio", "portable", "charging case", "electronics", "gym"]
+},
+{
+  "id": "a42c66c2-94dd-46a3-bf45-72d4f9f4a019",
+  "image": "images/products/gaming-mouse-rgb.jpg",
+  "name": "Ergonomic RGB Gaming Mouse",
+  "rating": { "stars": 4.5, "count": 342 },
+  "priceCents": 3599,
+  "keywords": ["gaming", "mouse", "rgb", "ergonomic", "wired", "pc", "computer", "accessory", "electronics", "precision"]
+},
+{
+  "id": "f43e3f4d-9c21-4d64-bfd2-56f3d4e8a0f3",
+  "image": "images/products/mechanical-keyboard.jpg",
+  "name": "Mechanical Gaming Keyboard with Backlight",
+  "rating": { "stars": 5, "count": 510 },
+  "priceCents": 6999,
+  "keywords": ["keyboard", "mechanical", "gaming", "rgb", "pc", "backlit", "electronics", "accessories", "typing", "computer"]
+},
+{
+  "id": "b2e34d0c-2184-4b3b-933d-f0cb2c2d4f01",
+  "image": "images/products/usb-c-charger.jpg",
+  "name": "USB-C Fast Charger - 20W",
+  "rating": { "stars": 4, "count": 188 },
+  "priceCents": 1599,
+  "keywords": ["charger", "usb-c", "fast charging", "electronics", "power adapter", "portable", "cable", "wall plug", "mobile", "accessory"]
+},
+{
+  "id": "e2a7c2d1-6c43-4c1d-bfd0-5c42b7d9a0c2",
+  "image": "images/products/wireless-speaker.jpg",
+  "name": "Portable Wireless Bluetooth Speaker",
+  "rating": { "stars": 4.5, "count": 732 },
+  "priceCents": 4999,
+  "keywords": ["speaker", "wireless", "bluetooth", "portable", "music", "audio", "electronics", "party", "outdoor", "bass"]
+},
+{
+  "id": "a8b3d1e2-5f41-4d9c-9f6c-34e8f9a1c2b3",
+  "image": "images/products/smartwatch.jpg",
+  "name": "Smartwatch with Fitness Tracker",
+  "rating": { "stars": 4, "count": 425 },
+  "priceCents": 8999,
+  "keywords": ["smartwatch", "fitness", "electronics", "health", "tracker", "wearable", "exercise", "mobile", "heart rate", "steps"]
+},
+{
+  "id": "d5c3a1f4-7b32-4c9e-9f2c-8f2d9b3a1f0c",
+  "image": "images/products/4k-smart-tv.jpg",
+  "name": "50-inch 4K Ultra HD Smart TV",
+  "rating": { "stars": 5, "count": 295 },
+  "priceCents": 42999,
+  "keywords": ["tv", "4k", "smart tv", "electronics", "home theater", "entertainment", "screen", "hdmi", "living room", "display"]
+},
+{
+  "id": "f1d2c3b4-9e8a-4b7c-8a5f-3c2d1b0a9e7f",
+  "image": "images/products/laptop-stand.jpg",
+  "name": "Adjustable Aluminum Laptop Stand",
+  "rating": { "stars": 4.5, "count": 166 },
+  "priceCents": 2999,
+  "keywords": ["laptop", "stand", "adjustable", "office", "ergonomic", "portable", "computer", "desk", "electronics", "work"]
+}
+]
